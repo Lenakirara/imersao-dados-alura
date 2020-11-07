@@ -5,7 +5,7 @@
 </div>
 
 Na semana dos dias 19 a 24 de outubro/2020 foi realizado a 2ª edição da Imersão Dados - Alura (a 1ª se chamava Quarentena Dados). Foi uma semana bastante produtiva... aprendemos
-a trabalhar com Python e Pandas e focamos em analisar e entender os dados.
+a trabalhar com Python e Pandas e focamos em analisar e entender os dados referentes aos inscritos no ENEM-2019.
 
 ## Aula 01 - Primeira análise em dados da educação
 
